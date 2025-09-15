@@ -1,3 +1,3 @@
-# Instructions
+# FortiWeb
 
-Dump your markdown files in this (Hands-on-Lab) directory. All images should go inside images/
+Configure Server objects, Virtual servers, and Server policies on the FortiWeb to protect vulnerable applications.
