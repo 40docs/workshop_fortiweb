@@ -1,4 +1,4 @@
-# FortiWeb Workshop
+# FortiWeb
 
 ## What is FortiWeb?
 
